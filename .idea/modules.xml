@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-backend/api-backend.iml" filepath="$PROJECT_DIR$/api-backend/api-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-frontend/api-frontend.iml" filepath="$PROJECT_DIR$/api-frontend/api-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-frontend-webflux/api-frontend-webflux.iml" filepath="$PROJECT_DIR$/api-frontend-webflux/api-frontend-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-parent/api-parent.iml" filepath="$PROJECT_DIR$/api-parent/api-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud-edge-lab-template.iml" filepath="$PROJECT_DIR$/.idea/cloud-edge-lab-template.iml" />
+    </modules>
+  </component>
+</project>

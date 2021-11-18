@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/api-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/api-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/api-frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/api-frontend-webflux/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK" />
+</project>

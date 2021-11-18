@@ -6,3 +6,4 @@ spring:
     name: api-frontend-webflux
   main:
     banner-mode: "off"
+backend-endpoint: "http://localhost:8081/api/test/"
